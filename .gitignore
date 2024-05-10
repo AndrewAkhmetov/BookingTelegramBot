@@ -1,0 +1,8 @@
+# IDE configuration files
+.idea/
+# Virtual environment folder
+venv/
+# Environment variables file
+.env
+# Data directory with database files
+data/
